@@ -8,6 +8,7 @@
 Adityadav04/Adityadav04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# <p align="left"> <img src=https://komarev.com/ghpvc/?username=Adityadav04 alt=ialimustufa/> </p>
 # Hi there 👋, I'm ADITYA
 
 ## About Me
