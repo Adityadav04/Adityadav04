@@ -16,13 +16,13 @@ You can click the Preview link to take a look at your changes.
 I'm a student and currently learning FullStack Web Devlopment.
 
 ## Projects
-- [Project 1](https://github.com/yourusername/project1): Description of project 1.
-- [Project 2](https://github.com/yourusername/project2): Description of project 2.
+-
+- 
 
 ## Skills
 - **Languages**: Python, JavaScript, Java, C
 - **Frameworks**: React, Node.js
-- **Tools**: Git
+- **Tools**: Git,VsCode
 
 ## Contact Me
 - **Email**: adityadav04@gmail.com
