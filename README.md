@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 ## Hi there 👋, I'm ADITYA
 
 ## About Me
-I'm a student and currently learning FullStack Web Devlopment.
+I'm a pre-final student.
+I'm a tech enthusiaist.
 
 ## Projects
 -
