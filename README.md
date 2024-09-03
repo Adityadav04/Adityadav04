@@ -21,7 +21,7 @@ I'm a tech enthusiaist.
 - 
 
 ## Skills
-- **Languages**: Python, JavaScript, Java, C
+- **Languages**: Python, JavaScript, Java, 
 - **Frameworks**: React, Node.js
 - **Tools**: Git,VsCode
 
