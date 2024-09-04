@@ -21,9 +21,9 @@ I'm a tech enthusiaist.
 - 
 
 ## Skills
-- **Languages**: Python, JavaScript, Java, 
-- **Frameworks**: React, Node.js
-- **Tools**: Git,VsCode
+- **Languages**: Python(learning), JavaScript(learning), Java(learning) 
+- **Frameworks**: React(learning), Node.js(learning)
+- **Tools**: Git(learning),VsCode(learning)
 
 ## Contact Me
 - **Email**: adityadav04@gmail.com
