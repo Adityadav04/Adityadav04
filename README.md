@@ -8,24 +8,40 @@
 Adityadav04/Adityadav04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- <p align="left"> <img src=https://komarev.com/ghpvc/?username=Adityadav04 alt=aditya/> </p> 
+<h1 align="center">Hi there, I'm Aditya! 👋</h1>
 
-## Hi there 👋, I'm ADITYA
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adityadav04&color=brightgreen" alt="Profile Views"/>
+</p>
 
-## About Me
-I'm a pre-final student.
-I'm a tech enthusiaist.
+<p align="center">
+  <a href="https://github.com/Adityadav04">
+    <img src="https://img.shields.io/github/followers/Adityadav04?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Adityadav04?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/Adityadav04" alt="Repos"/>
+  </a>
+</p>
 
-## Projects
--
-- 
+---
 
-## Skills
-- **Languages**: Python(learning), JavaScript(learning), Java(learning) 
-- **Frameworks**: React(learning), Node.js(learning)
-- **Tools**: Git(learning),VsCode(learning)
+### 👨‍💻 About Me
 
-## Contact Me
-- **Email**: adityadav04@gmail.com
-<!--- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) --->
-- **Twitter**: [@adityadav0412](https://twitter.com/adityadav0412)
+- 🌱 Currently learning **Operating Systems, Python, and Node.js**
+- 📘 Exploring **Machine Learning and Artificial Intelligence** next
+- 🎓 A 3rd-year Computer Science student passionate about building real-world projects
+
+### 🚀 Tech Stack
+
+- **Languages**: JavaScript, Python, HTML, CSS
+- **Frameworks**: Node.js (learning in progress)
+- **Interests**: Full-stack development, AI/ML
+
+---
+
+### 🌟 Let's Connect
+
+- [GitHub](https://github.com/Adityadav04)
+- [LinkedIn](https://www.linkedin.com/in/adityadav04) *(add your LinkedIn profile link)*
+
+
