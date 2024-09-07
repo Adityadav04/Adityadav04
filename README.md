@@ -8,10 +8,10 @@
 Adityadav04/Adityadav04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi there, I'm Aditya! 👋</h1>
+<h1 align="center">Hey there! I'm Aditya Yadav 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityadav04&color=brightgreen" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Adityadav04&color=blueviolet" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -26,22 +26,52 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 👨‍💻 About Me
+- 🎓 3rd-year Computer Science Student
+- 🌱 Currently learning: **Operating Systems, Python, Node.js**
+- 📘 Next steps: **Machine Learning, AI**
+- ⚡ Fun fact: I love solving complex problems and making cool projects!
 
-- 🌱 Currently learning **Operating Systems, Python, and Node.js**
-- 📘 Exploring **Machine Learning and Artificial Intelligence** next
-- 🎓 A 3rd-year Computer Science student passionate about building real-world projects
-
-### 🚀 Tech Stack
-
-- **Languages**: JavaScript, Python, HTML, CSS
-- **Frameworks**: Node.js (learning in progress)
-- **Interests**: Full-stack development, AI/ML
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</p>
 
 ---
 
-### 🌟 Let's Connect
+### 🌟 Featured Projects
+- 🚀 **Project Name 1**: Brief description of what this project is about. [Repository link](#)
+- 🔍 **Project Name 2**: Brief description of another project. [Repository link](#)
 
-- [GitHub](https://github.com/Adityadav04)
-- [LinkedIn](https://www.linkedin.com/in/adityadav04) *(add your LinkedIn profile link)*
+---
+
+### 📫 How to Reach Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/adityadav04" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+### 🎯 Goals
+- 🌍 Contribute to open-source projects
+- 🏆 Become proficient in full-stack development
+- 🚀 Dive deep into AI/ML by next year
+
+---
+
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adityadav04&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityadav04&layout=compact&theme=radical)
+
+---
+
+### 💬 Let's Collaborate!
+Feel free to reach out if you want to work together on any exciting projects or just want to chat about tech!
 
 
