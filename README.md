@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hey there! I'm Aditya Yadav 👋</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Aditya+Yadav;I'm+a+Software+Learner.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+I'm+Aditya+Yadav.;I'm+a+Student.;I'm+a+Learner.;)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
