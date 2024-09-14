@@ -8,13 +8,13 @@
 Adityadav04/Adityadav04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--<h1 align="center">Hey there! I'm Aditya Yadav 👋</h1>
-<div align="center">  
---->
+<!--<h1 align="center">Hey there! I'm Aditya Yadav 👋</h1>--->
+<h1><div align="center">  
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+there.;I'm+Aditya+Yadav.;I'm+a+Student.;I'm+a+Learner.;)](https://git.io/typing-svg)
 </div>
-
+</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adityadav04&color=blueviolet" alt="Profile Views"/>
 </p>
