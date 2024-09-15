@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1><div align="center">  
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=FFFF00&center=true&vCenter=true&width=470&lines=Hey!+there.;I'm+Aditya+Yadav.;I'm+a+Student.;I'm+a+Learner.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=33DAF6&center=true&vCenter=true&width=470&lines=Hey!+there.;I'm+Aditya+Yadav.;I'm+a+Student.;I'm+a+Learner.;)](https://git.io/typing-svg)
 </div>
 </h1>
 <p align="center">
@@ -48,6 +48,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/WSL%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  
 </p>
 
 
